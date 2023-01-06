@@ -6,3 +6,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dsczin&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DSC github stats" /> 
 </div>
 
+
+
+<div align="center">  
+<a href="https://instagram.com/iamsoulzas?igshid=YmMyMTA2M2y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
